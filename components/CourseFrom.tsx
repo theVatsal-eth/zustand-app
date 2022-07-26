@@ -1,7 +1,7 @@
 import { NextPage } from 'next'
 import React, { useState } from 'react'
 
-import useCourseStore from '../pages/store/store'
+import useCourseStore from '../store/store'
 
 const CourseFrom: NextPage = () => {
 

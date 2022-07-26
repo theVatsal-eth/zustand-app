@@ -1,6 +1,6 @@
 import { NextPage } from 'next'
 import React from 'react'
-import useCourseStore from '../pages/store/store'
+import useCourseStore from '../store/store'
 
 const CourseList: NextPage = () => {
 
