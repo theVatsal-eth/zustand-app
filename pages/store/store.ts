@@ -1,6 +1,5 @@
 import create, { StateCreator } from "zustand";
 
-import { devtools, persist } from 'zustand/middleware'
 
 export interface ICourse {
     id: number;
